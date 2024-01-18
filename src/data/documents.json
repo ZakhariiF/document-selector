@@ -1,0 +1,68 @@
+[
+  {
+    "id": "uR3pXs",
+    "title": "Non-Compete Agreements",
+    "nestedDocuments": [
+      {
+        "id": "L7vK9m",
+        "title": "California - Non-Compete Agreement",
+        "jobTemplate": null,
+        "location": "Los Angeles, CA",
+        "seniority": null,
+        "subsidiary": null
+      },
+      {
+        "id": "A2bC4d",
+        "title": "Florida - Non-Compete Agreement",
+        "jobTemplate": null,
+        "location": "Miami, FL",
+        "seniority": null,
+        "subsidiary": null
+      },
+      {
+        "id": "X9jK1l",
+        "title": "New York - Non-Compete Agreement",
+        "jobTemplate": null,
+        "location": "New York, NY",
+        "seniority": null,
+        "subsidiary": null
+      }
+    ]
+  },
+  {
+    "id": "Q3oP7r",
+    "title": "Internship",
+    "nestedDocuments": [
+      {
+        "id": "U6zV8w",
+        "title": "Social Media Project",
+        "jobTemplate": "Software Developer",
+        "location": "Chicago, IL",
+        "seniority": "Junior",
+        "subsidiary": "New Company LLC"
+      },
+      {
+        "id": "G5hT4i",
+        "title": "Testing New Features",
+        "jobTemplate": "Quality Assurance",
+        "location": "Boston, MA",
+        "seniority": "Intern",
+        "subsidiary": null
+      }
+    ]
+  },
+  {
+    "id": "sDkjfs",
+    "title": "Employee Handbooks",
+    "nestedDocuments": [
+      {
+        "id": "z6mw8w",
+        "title": "Employee Handbook",
+        "jobTemplate": null,
+        "location": "Chicago, IL",
+        "seniority": null,
+        "subsidiary": null
+      }
+    ]
+  }
+]
